@@ -1,0 +1,22 @@
+{
+    "name": "robin-ivi/google-auth",
+    "description": "Laravel Google Login Package",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Krishna\\GoogleAuth\\": "src/"
+        }
+    },
+    "extra": {
+        "laravel": {
+            "providers": [
+                "Krishna\\GoogleAuth\\GoogleAuthServiceProvider"
+            ]
+        }
+    },
+    "require": {
+        "php": ">=8.1",
+        "laravel/socialite": "^5.0"
+    }
+}
