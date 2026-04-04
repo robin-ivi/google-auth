@@ -1,8 +1,24 @@
 {
     "name": "robin-ivi/google-auth",
     "description": "Laravel Google Login Package",
+    "keywords": [
+        "laravel",
+        "google",
+        "login",
+        "google-login",
+        "javascript",
+        "routing"
+    ],
     "type": "library",
     "license": "MIT",
+    "homepage": "https://github.com/robin-ivi/google-auth",
+    "authors": [
+        {
+            "name": "Robin",
+            "email": "work.robinivi@gmail.com",
+            "homepage": "http://shikshatech.in/"
+        }
+    ],
     "autoload": {
         "psr-4": {
             "Krishna\\GoogleAuth\\": "src/"
