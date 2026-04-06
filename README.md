@@ -1,7 +1,7 @@
 # 🚀 Laravel Google Auth Package
 
 Simple & plug-and-play Google Login package for Laravel using Socialite.
-Just install, add `.env` keys, and you're ready to go 🔥
+Just install, add `.env` keys, and you're ready to go🔥
 
 ---
 
